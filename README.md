@@ -3,9 +3,12 @@ Matching an alphabet soup of compounds is not trivial. This my attempt at matchi
 
 ## Licence
 
-There is no lincence, because I am not the owner of the data. It is _meant_ to be open. But...
+There is no licence, because I am not the owner of the data. It is _meant_ to be open. But...
 
 ## Data
 
-## Metadata
+This repo was formally https://github.com/matteoferla/EV-D68-3C-protease/tree/main/XChem2Postera-corrections for D68
 
+## Metadata details
+
+...
