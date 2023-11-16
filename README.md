@@ -12,3 +12,8 @@ This repo was formally https://github.com/matteoferla/EV-D68-3C-protease/tree/ma
 ## Metadata details
 
 ...
+
+## See also
+
+* https://github.com/matteoferla/COVID-Moonshot-metadata-analysis
+* https://github.com/matteoferla/Fragment-hit-follow-up-chemistry
